@@ -4,7 +4,7 @@
 api_keys: 
   # Google Gemini API Key - FREE TIER AVAILABLE!
   # Get yours at: https://aistudio.google.com/app/apikey
-  google: "AIzaSyBJK1U4-fxBbHaLHZANVeItJBU6ononTlM"
+  google: " "
 
 # Model Configuration for Each Agent
 # FORMAT: "google:model-name"
@@ -37,3 +37,4 @@ files:
   brute_outputs: "small_outputs.txt"
   optimal_solution: "optimal.py"
   optimal_outputs: "op.txt"
+
