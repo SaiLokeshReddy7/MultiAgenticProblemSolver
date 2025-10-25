@@ -1,10 +1,4 @@
-# 🤖 Multi-Agent Meta HackerCup Starter Kit
 
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![LangChain](https://img.shields.io/badge/LangChain-0.3+-green.svg)](https://python.langchain.com/)
-[![Google Gemini](https://img.shields.io/badge/Gemini-2.5%20Flash-orange.svg)](https://ai.google.dev/)
-[![FlamesBlue](https://img.shields.io/badge/FlamesBlue-v1-red.svg)](https://www.flamesblue.com)
 
 A multi-agent AI system that collaboratively solves competitive programming problems using iterative refinement with brute-force validation.
 
@@ -297,3 +291,4 @@ SOFTWARE.
 <p align="center">
   <strong>Thanks to <a href="https://www.flamesblue.com" target="_blank">FlamesBlue</a> for building the beautiful web viewer!</strong>
 </p>
+
